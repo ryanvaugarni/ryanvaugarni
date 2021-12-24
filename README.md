@@ -13,6 +13,6 @@
 #### Méthodes / Frameworks
 <img height="32" width="32" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/>&nbsp;&nbsp; <img height="32" width="" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
 
-| Quelques statistiques 
+Quelques statistiques 
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvaugarni)](https://github.com/ryanvaugarni/github-readme-stats)
